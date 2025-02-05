@@ -1,36 +1,41 @@
 # Simon Game
 
-Bu, klasik Simon Says oyununu temel alan bir hafıza oyunudur. Oyuncu, ekranda görünen renk sırasını hatırlayarak doğru şekilde tekrar etmeye çalışır.
+This is a memory game based on the classic Simon Says game. The player must remember the color sequence displayed on the screen and repeat it correctly.
 
-## Proje Açıklaması
+## Project Description
 
-Bu proje, JavaScript ve jQuery kullanılarak geliştirilmiş bir tarayıcı tabanlı Simon Says oyunudur. Oyunda dört farklı renkli düğme bulunmaktadır ve her seviyede rastgele bir düğme yanıp söner. Oyuncunun bu sıralamayı hatırlayarak doğru şekilde tekrar etmesi gerekmektedir.
+This project is a browser-based Simon Says game developed using JavaScript and jQuery. The game consists of four different colored buttons, and in each level, a random button flashes. The player needs to remember this sequence and repeat it correctly.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 - HTML
 - CSS
-- JavaScript (jQuery kütüphanesi)
+- JavaScript (jQuery library)
 
-## Kurulum
+## Installation
 
-1. Bu depoyu yerel makinenize klonlayın:
+1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/acitola/simon-game.git
    ```
-2. Proje klasörüne gidin:
+2. Navigate to the project folder:
    ```bash
    cd simon-game
    ```
-3. `index.html` dosyasını bir tarayıcıda açarak oyunu oynayabilirsiniz.
+3. Open the `index.html` file in a browser to play the game.
 
-## Nasıl Oynanır?
+## How to Play
 
-1. Oyuna başlamak için klavyenizden herhangi bir tuşa basın.
-2. Oyun rastgele bir rengi yanıp söndürerek başlar.
-3. Oyuncu yanıp sönen renkleri doğru sırayla tıklamalıdır.
-4. Doğru cevap verildiğinde bir sonraki seviyeye geçilir ve yeni bir renk eklenir.
-5. Yanlış tıklama yapıldığında oyun sona erer ve tekrar başlatılabilir.
+1. Press any key on your keyboard to start the game.
+2. The game begins by flashing a random color.
+3. The player must click the colors in the correct sequence.
+4. If the sequence is correct, the game progresses to the next level with an additional color.
+5. If the player clicks the wrong color, the game ends and can be restarted.
 
-## Ekran Görüntüsü
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/feb79370-0d3e-43a3-bea4-192b9c324330)
+
+
+
+
+
