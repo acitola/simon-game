@@ -35,9 +35,6 @@ This project is a browser-based Simon Says game developed using JavaScript and j
 
 ![image](https://github.com/user-attachments/assets/feb79370-0d3e-43a3-bea4-192b9c324330)
 
-## Note
-
-JS code has been minified (https://www.minifier.org/)
 
 
 
